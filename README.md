@@ -1,18 +1,3 @@
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   const dev = new Fullstack({ city: "Tyumen" });         ║
-║   dev.build("ideas").ship("production");                 ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## 👤 Who am I
 
 Fullstack developer who thinks in systems and ships in features. I care about **clean architecture**, **developer experience** and **code that doesn't make future-me cry**.
